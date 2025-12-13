@@ -1,16 +1,34 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&text=Anomtoss&fontAlign=50&fontAlignY=50&fontColor=00fff7&color=0:0f2027,50:203a43,100:2c5364&stroke=00fff7&strokeWidth=2" />
+</p>
 
-<!--
-**Anom-toss/Anom-toss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Anomtoss?label=Followers&style=for-the-badge&color=00fff7" />
+  <img src="https://img.shields.io/github/stars/Anomtoss?label=Total%20Stars&style=for-the-badge&color=ff00ff" />
+</p>
 
-Here are some ideas to get you started:
+## Hey There! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+{
+  "name": "Anomtoss",
+  "age": 16,
+  "description": "Fullstack developer in different languages",
+  "stack": {
+    "main_languages": [
+      "Python",
+      "JavaScript",
+      "Go"
+    ],
+    "other_technologies": [
+      "React",
+      "HTML",
+      "CSS",
+      "SQL",
+      "Next.js",
+      "PHP"
+    ]
+  },
+  "focus": "Scalable backend, modern frontend, clean architecture",
+  "created_by": "Anomtoss"
+}
