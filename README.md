@@ -3,17 +3,30 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Anom-toss?label=Followers&style=for-the-badge&color=00fff7" />
-  <img src="https://img.shields.io/github/stars/Anom-toss?label=Total%20Stars&style=for-the-badge&color=ff00ff" />
+  <img src="https://img.shields.io/github/followers/Anomtoss?label=Followers&style=for-the-badge&color=00fff7" />
+  <img src="https://img.shields.io/github/stars/Anomtoss?label=Total%20Stars&style=for-the-badge&color=ff00ff" />
 </p>
 
-## Hey There! 👋
+## 📂 profile.json
 
-```json
+```jsonc
 {
+  // Personal info
   "name": "Anomtoss",
   "age": 16,
+  "role": "Fullstack Developer",
+
+  // About
   "description": "Fullstack developer in different languages",
+  "focus": "Scalable backend, modern frontend, clean architecture",
+
+  // GitHub (live data via badges)
+  "github": {
+    "followers": "live",
+    "stars": "live"
+  },
+
+  // Tech stack
   "stack": {
     "main_languages": [
       "Python",
@@ -29,6 +42,7 @@
       "PHP"
     ]
   },
-  "focus": "Scalable backend, modern frontend, clean architecture",
+
+  // Meta
   "created_by": "Anomtoss"
 }
