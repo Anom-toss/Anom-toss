@@ -2,9 +2,9 @@
 
 ```bash
 ╭──────────────────────────────────────────────────────────╮
-│ Welcome to the GitHub profile of Enom!              │
+│ Welcome to the GitHub profile of Anom!              │
 ╰──────────────────────────────────────────────────────────╯
-> name: Enom
+> name: Anom
 > age: 17
 > role: Programmer
 > description: Fullstack developer in different languages
@@ -15,5 +15,5 @@
 > Fun fact: Always learning something new, just like a true dev!
 
 > Connect with me:
-> GitHub: https://github.com/wan-tastic
-> Telegram: https://t.me/dejavuenom
+> GitHub: https://github.com/Anomtoss
+> Telegram: https://t.me/dejavuAnom
