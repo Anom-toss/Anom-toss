@@ -2,9 +2,9 @@
 
 ```bash
 ╭──────────────────────────────────────────────────────────╮
-│ Welcome to the GitHub profile of Anom-toss!              │
+│ Welcome to the GitHub profile of enom!              │
 ╰──────────────────────────────────────────────────────────╯
-> name: Anomtoss
+> name: wan-tastic (enom)
 > age: 17
 > role: Programmer
 > description: Fullstack developer in different languages
@@ -15,7 +15,7 @@
 > Fun fact: Always learning something new, just like a true dev!
 
 > Connect with me:
-> GitHub: https://github.com/Anom-toss
+> GitHub: https://github.com/wan-tastic
 > Telegram: https://t.me/dejavuAnom
 > Youtube: https://www.youtube.com/@Anomtoss
 
